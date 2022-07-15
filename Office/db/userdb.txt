@@ -1,0 +1,2 @@
+A1000;Mohd Fahmy Izwan Bin Zulkhafri;0189031045;Information Technology;fahmy;admin;Admin
+A1001;Amrullah;1234;Information Technology;am;am;Staff
